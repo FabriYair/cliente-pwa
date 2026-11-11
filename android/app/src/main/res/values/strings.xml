@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gestión de Cursos PWA</string>
+    <string name="title_activity_main">Gestión de Cursos PWA</string>
+    <string name="package_name">pe.edu.continental.gestioncursos</string>
+    <string name="custom_url_scheme">pe.edu.continental.gestioncursos</string>
+</resources>

@@ -1,0 +1,17 @@
+
+{
+  "appId": "pe.edu.continental.gestioncursos",
+  "appName": "Gestión de Cursos PWA",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
